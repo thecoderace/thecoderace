@@ -4,7 +4,7 @@ My name is Kara (Jk) 𓆦
 
 * I'm a book and winter-loving humanist.
 * My hobbies include reading, sleeping, rollerskating, and pretty much investing most of my free-time in learning to code to advance my programming capability!
-* I aspire to become a self-taught programmer specialising in Front-End Development. Once I've gained sufficient experience, I will further develop my skills by advancing my career to become a Full-Stack Developer!
+* I aspire to be a self-taught programmer specialising in Front-End Development, with the hopes of further advancing my career as a Full-Stack Developer!
 
 <!--
 **thecoderace/thecoderace** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
