@@ -2,7 +2,7 @@
 
 My name is Kara (Jk) 𓆦
 * I'm a book and winter-loving humanist.
-    * Advocator of `#MentalHealth` & `#GrowthMindset`.
+    * Encouraging `#mentalhealth` & developing a `growth mindset`.
 * My hobbies consist of:
     * reading 📚
     * sleeping 💤
@@ -21,9 +21,9 @@ My name is Kara (Jk) 𓆦
 ### The more you know:
 
 - 💬 Ask me about my current reads
-- 🎒 `Cohort12` student @ [ALX Africa](https://www.alxafrica.com)
-- 🔭 I’m currently working on [The Odin Project](https://www.theodinproject.com/)
-- 🌱 I’m currently self-studying CS via [OSSU - Computer Science](https://github.com/ossu/computer-science)
+- 🎒 'Ex-Cohort12` student @ [ALX Africa](https://www.alxafrica.com)
+- 🔭 I’m currently self-learning Web Development via [The Odin Project](https://www.theodinproject.com/)
+- 🌱 I’m periodically self-studying CS via [OSSU - Computer Science](https://github.com/ossu/computer-science)
 - 👻 Quote: ❝I think you have to try and fail because failure gets you closer to what you’re good at.❞
 - ⚡ Fun fact: I'm an `ambivert`, yet I'm more inclined to my `introverted` nature.
 - 📫: <a href="mailto:jacobskara@outlook.com">Drop me an 📧!</a>
