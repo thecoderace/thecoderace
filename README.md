@@ -1,17 +1,10 @@
 ### Hello 👋🏽
 
-My name is Kara (Jk) 𓆦
-* I'm a book and winter-loving humanist.
-    * Encouraging `#mentalhealth` while developing a `growth mindset`.
+My name is Kara (Jk) 𓆦 I'm a book and winter-loving humanist.
+* I'm actively developing a `growth mindset`, and firmly encourage prioritizing `#mentalhealth`. 
 * My hobbies consist of:
-    * reading 📚
-    * sleeping 💤
-    * stretching 🧘🏽‍♀️
-    * rollerskating 🛼
-    * Pinterest-surfing 📌
-    * anime & mang/hwa 🍥
-    * watching cafe vlogs 🧋 and mukbangs 🍲 on YouTube.
-    * learning to `code` to improve my programming capabilities 👩🏽‍💻
+    * reading 📚 • sleeping 💤 • stretching 🧘🏽‍♀️ • rollerskating 🛼 • anime & mang/hwa 🍥 • Pinterest-surfing 📌
+      • watching cafe vlogs 🧋 and mukbangs 🍲 on YouTube • learning to `code` to improve my programming capabilities 👩🏽‍💻
 * I aspire to be a self-taught programmer specializing in Front-End Development, with hopes to further advance as a Full-Stack Developer!
 
 <!--
@@ -30,7 +23,3 @@ My name is Kara (Jk) 𓆦
 - 📫: <a href="mailto:jacobskara@outlook.com">Drop me an 📧!</a>
 <!---
 - 🤔 I’m looking for help with ...-->
-
----
-
-[<img src="https://img.shields.io/badge/github-%2312100E.svg?&style=for-the-badge&logo=github&logoColor=white&color=black" />](https://github.com/thecoderace)[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/jacobskara/)
